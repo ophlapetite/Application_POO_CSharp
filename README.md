@@ -1,2 +1,2 @@
 # Comment exécuter le programme ?
-Lancez .exe 
+Lancez ProjetFBRWF.exe
